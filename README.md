@@ -1,1 +1,1 @@
-Face-Detection made using Javascript, Html, Css, APIs.
+Face-Detection made using Javascript, Html and APIs.
